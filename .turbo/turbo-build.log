@@ -1,0 +1,21 @@
+[6n[?9001h[?1004h[m]0;C:\WINDOWS\system32\cmd.exe[?25h]0;C:\WINDOWS\system32\cmd.exe [?25l
+> @claw401/sdk@0.1.0 build C:\Users\mtabi\Desktop\claw401\packages\sdk-ts
+> tsup[6;1H[?25h[34mCLI [mBuilding entry: src/index.ts
+[34mCLI [mUsing tsconfig: tsconfig.json[34m
+CLI [mtsup v8.5.1[34m
+CLI [mUsing tsup config: C:\Users\mtabi\Desktop\claw401\packages\sdk-ts\tsup.config.ts[34m
+CLI [mTarget: es2022
+[34mCLI [mCleaning output folder
+[34mESM [mBuild start[K
+[34mCJS [mBuild start[K
+[32mCJS [m[1mdist\index.cjs     [32m[22m11.87 KB[m
+[32mCJS [m[1mdist\index.cjs.map [32m[22m37.77 KB[m
+[32mCJS [m⚡️ Build success in 241ms[K
+[32mESM [m[1mdist\index.js     [32m[22m10.89 KB[K[m
+[32mESM [m[1mdist\index.js.map [32m[22m37.75 KB[K[m
+[32mESM [m⚡️ Build success in 243ms[K
+[34mDTS [mBuild start
+[32mDTS [m⚡️ Build success in 1947ms
+[32mDTS [m[1mdist\index.d.ts  [32m[22m17.88 KB[m
+[32mDTS [m[1mdist\index.d.cts [32m[22m17.88 KB[K[m
+[?9001l[?1004l
