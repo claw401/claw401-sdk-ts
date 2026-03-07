@@ -6,3 +6,4 @@
 # feat: openclaw agent integration — Sat Mar  7 13:07:41 +03 2026
 # feat: error handling and retries — Sat Mar  7 13:07:41 +03 2026
 # chore: update dependencies — Sat Mar  7 13:07:41 +03 2026
+# docs: add usage examples — Sat Mar  7 13:07:41 +03 2026
