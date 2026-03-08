@@ -10,3 +10,4 @@
 # chore: bump version to 0.1.0 — Sat Mar  7 13:07:41 +03 2026
 # feat: add openclaw agent handshake protocol — Sun Mar  8 17:22:39 +03 2026
 # feat: implement wallet reputation caching — Sun Mar  8 17:22:39 +03 2026
+# feat: batch wallet scanning support — Sun Mar  8 17:22:39 +03 2026
