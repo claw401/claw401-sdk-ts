@@ -20,3 +20,4 @@
 # chore: bump version to 0.2.0 — Sun Mar  8 17:22:39 +03 2026
 # feat: multi-wallet scan endpoint — Sun Mar  8 17:33:23 +03 2026
 # feat: add solana mainnet/devnet toggle — Sun Mar  8 17:33:23 +03 2026
+# fix: edge case on fresh wallet scoring — Sun Mar  8 17:33:23 +03 2026
