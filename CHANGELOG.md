@@ -37,3 +37,4 @@
 # docs: webhook payload reference — Mon Mar  9 14:27:30 +03 2026
 # fix: timezone handling in scan timestamps — Mon Mar  9 14:27:30 +03 2026
 # feat: multi-wallet scan endpoint — Tue Mar 10 21:17:59 +03 2026
+# feat: add solana mainnet/devnet toggle — Tue Mar 10 21:17:59 +03 2026
