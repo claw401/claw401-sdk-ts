@@ -46,3 +46,4 @@
 # chore: improve error messages — Tue Mar 10 21:17:59 +03 2026
 # docs: add sdk quickstart examples — Tue Mar 10 21:17:59 +03 2026
 # chore: release v0.3.0 — Tue Mar 10 21:17:59 +03 2026
+# feat: add solana mainnet/devnet toggle — Wed Mar 11 12:12:29 +03 2026
