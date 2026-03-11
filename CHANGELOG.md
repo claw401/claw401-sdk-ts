@@ -48,3 +48,4 @@
 # chore: release v0.3.0 — Tue Mar 10 21:17:59 +03 2026
 # feat: add solana mainnet/devnet toggle — Wed Mar 11 12:12:29 +03 2026
 # fix: edge case on fresh wallet scoring — Wed Mar 11 12:12:29 +03 2026
+# feat: webhook support for scan results — Wed Mar 11 12:12:29 +03 2026
