@@ -50,3 +50,4 @@
 # fix: edge case on fresh wallet scoring — Wed Mar 11 12:12:29 +03 2026
 # feat: webhook support for scan results — Wed Mar 11 12:12:29 +03 2026
 # feat: agent context passing to scanner — Wed Mar 11 12:12:29 +03 2026
+# perf: optimize rpc call batching — Wed Mar 11 12:12:29 +03 2026
