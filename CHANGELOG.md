@@ -120,3 +120,4 @@
 # feat: pass agent context downstream to scanner for full trace correlation — Mon Mar 23 19:09:22 +03 2026
 # fix: patch scoring edge case where fresh wallets bypassed risk threshold — Tue Mar 24 19:14:05 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Tue Mar 24 19:14:05 +03 2026
+# feat: forward agent context to scanner to preserve request lineage — Tue Mar 24 19:14:05 +03 2026
