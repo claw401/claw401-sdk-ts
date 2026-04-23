@@ -203,3 +203,4 @@
 # perf: reduce RPC round-trips by merging sequential calls into batch ops — Thu Apr 23 14:00:53 +03 2026
 # feat: enrich risk verdict with confidence score and contributing factors — Thu Apr 23 14:00:53 +03 2026
 # fix: guard against null balance state in fresh wallet risk evaluation — Thu Apr 23 14:00:53 +03 2026
+# feat: ship webhook integration for pushing scan results to external systems — Thu Apr 23 14:00:53 +03 2026
