@@ -346,3 +346,4 @@
 # feat: expose webhook endpoint to stream scan results to external consumers — Tue May 12 12:40:21 +03 2026
 # feat: thread agent context through scanner for distributed tracing support — Tue May 12 12:40:21 +03 2026
 # perf: batch and deduplicate RPC calls to minimize node request overhead — Tue May 12 12:40:21 +03 2026
+# feat: surface confidence score alongside risk level in verdict output — Tue May 12 12:40:21 +03 2026
