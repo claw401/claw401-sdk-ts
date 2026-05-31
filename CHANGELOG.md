@@ -488,3 +488,4 @@
 # feat: add configurable webhook sink for real-time scan result delivery — Fri May 29 14:35:08 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Sun May 31 23:30:52 +03 2026
 # feat: add configurable webhook sink for real-time scan result delivery — Sun May 31 23:31:39 +03 2026
+# fix: resolve false positives in fresh wallet heuristic scoring model — Sun May 31 23:31:39 +03 2026
